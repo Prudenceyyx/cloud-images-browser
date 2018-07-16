@@ -35,7 +35,7 @@ and then
 ```
 DEBUG=myapp:* npm start
 ```
-
+and open 0.0.0.0/8080 in your browser
 
 #### How and Why did I build it?
 It inherits from my last [Shooting-for-magazine](https://github.com/Prudenceyyx/Shooting-for-magazine) repository. But this time, instead of rendering images stored locally, the web displays cloud-based images, which is more dynamic and easier for management.
