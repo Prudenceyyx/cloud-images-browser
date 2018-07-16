@@ -1,6 +1,9 @@
 # cloud-images-browser
 A web demo showing photos grabbed from my cloud
 
+![picture alt](https://media.giphy.com/media/1xOtR2KlZnnTq3bIZx/giphy.gif)
+
+
 ### A bit intro
 [Cloudinary](https://cloudinary.com/) is a cloud-based image and video management tool that provides a set of API for access and manipulation. You can register free and have about 10GB space.
 
