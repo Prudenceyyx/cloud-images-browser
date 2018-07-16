@@ -1,0 +1,11 @@
+extends layout
+
+block content
+  h1= title
+  p Welcome to #{title}
+  each image in images
+    div(class="photo")
+      img(src=image.url, id="img")
+      img(src=image.qr, id="qr")
+
+
